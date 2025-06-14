@@ -11,10 +11,7 @@ Donut Chart: Sales by category
 Slicers: Filters for Region, Month and Category
 🔍 Key Insights
 Maharashtra Leads in Sales: Top-performing region, followed by Karnataka and Uttar Pradesh.
-
 Amazon is the Leading Sales Channel: Responsible for 35.48% of orders.
-
 Seasonal Sales Trends: Peaks in March and April; dips in October and December.
-
 📌 Outcome
 Successfully designed a clean, interactive sales dashboard and summarized trends to support data-driven business decisions.
