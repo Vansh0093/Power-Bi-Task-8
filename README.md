@@ -5,8 +5,7 @@ Create a basic interactive dashboard to visualize sales performance by product, 
 
 ## 🛠 Tools Used
 * Power BI (for visualization)
-* Python (optional, not used for this task)
-* Dataset: Vrinda Store Sales Data (structured like `Superstore_Sales.csv`)
+* Dataset: Vrinda Store Sales Data
 
 ## 📈 Dashboard Features
 * **Line Chart**: Sales trend over months
