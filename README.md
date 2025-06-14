@@ -8,11 +8,11 @@ Create a basic interactive dashboard to visualize sales performance by product, 
 * Dataset: Vrinda Store Sales Data
 
 ## 📈 Dashboard Features
+Change order date to MonthYear
 * **Line Chart**: Sales trend over months
 * **Bar Chart**: Sales by region
 * **Donut Chart**: Sales by category
 * **Slicers**: Filters for Region and Category
-* **Conditional Formatting**: Highlights top-performing areas using color
 
 ## 🔍 Key Insights
 1. **Maharashtra Leads in Sales**
